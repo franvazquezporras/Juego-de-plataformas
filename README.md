@@ -43,3 +43,12 @@ Plant: has no displacement, shoots seeds laterally, can damage the player if the
 Mushroom: lateral displacement, can damage the player if they collide laterally.
 
 The bird, plant, and mushroom enemies can be eliminated by jumping on them.
+
+*Link:* https://zetaka.itch.io/plataform-game
+
+![image](https://github.com/franvazquezporras/Juego-de-plataformas/assets/45006637/01d86b63-f4fb-4077-8834-1bdf1172356a)
+
+![image](https://github.com/franvazquezporras/Juego-de-plataformas/assets/45006637/b8891f92-b2f2-4104-bc03-b7c5f0c3b795)
+
+![image](https://github.com/franvazquezporras/Juego-de-plataformas/assets/45006637/a2f1c5c6-96eb-4e58-8a4e-276a64984eab)
+
